@@ -36,3 +36,5 @@ class UsersTableSeeder extends Seeder
         ]);
     }
 }
+// php artisan db:seed --class=UsersTableSeeder
+// 
